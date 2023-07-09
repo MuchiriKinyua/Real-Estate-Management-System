@@ -8,9 +8,9 @@ The problem statement is to give the stakeholders real estate data which will en
 # Main Objective
 The main objective is to select the features which influence the price of a house mostly and then visualize them and put them on a regression scale based on the past data to construct a predictive model to identify how in the future, what will be influencing the real estate business.
 # Specific Objectives
-1.4.1. To identify the most correlated features with the price to create a multilinear regreesion to help us in knowing how the features influence the prices and even influence the customers. </br>
-1.4.2 To build a baseline model to identify the most relevant data to be used as the starting point of the analysis. </br>
-1.4.3 To use the linear regression metrics to have the appopriate coefficients which will enable us to come up with the relevant recommendations for the stakeholders of the real estates 
+To identify the most correlated features with the price to create a multilinear regreesion to help us in knowing how the features influence the prices and even influence the customers. </br>
+To build a baseline model to identify the most relevant data to be used as the starting point of the analysis. </br>
+To use the linear regression metrics to have the appopriate coefficients which will enable us to come up with the relevant recommendations for the stakeholders of the real estates 
 # Notebook Structure
 ## Introduction </br>
 ## Problem Statement </br>
