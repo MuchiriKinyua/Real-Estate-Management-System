@@ -12,18 +12,18 @@ The main objective is to select the features which influence the price of a hous
 1.4.2 To build a baseline model to identify the most relevant data to be used as the starting point of the analysis. </br>
 1.4.3 To use the linear regression metrics to have the appopriate coefficients which will enable us to come up with the relevant recommendations for the stakeholders of the real estates 
 # Notebook Structure
-### 1.5.1 Introduction </br>
-### 1.5.2 Problem Statement </br>
-### 1.5.3 Main Objective </br>
-### 1.5.4 Specific Objectives </br>
-### 1.5.5 Importing Libraries </br>
-### 1.5.6 Data Understanding </br>
-### 1.5.7 Data Cleaning </br>
-### 1.5.8 Modelling </br>
-### 1.5.9 Regression Results </br>
-### 1.5.10 Data Visualizations </br>
-### 1.5.11 Interpretations</br>
-### 1.5.12  Recommendations and Conclusions </br>
+## Introduction </br>
+## Problem Statement </br>
+## Main Objective </br>
+## Specific Objectives </br>
+## Importing Libraries </br>
+## Data Understanding </br>
+## Data Cleaning </br>
+## Modelling </br>
+## Regression Results </br>
+## Data Visualizations </br>
+## Interpretations</br>
+## Recommendations and Conclusions </br>
 # Data understanding
 ## Column Names and Descriptions for King County Data Set
 * `id` - Unique identifier for a house
