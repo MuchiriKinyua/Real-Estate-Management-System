@@ -25,7 +25,7 @@ The main objective is to select the features which influence the price of a hous
 ### 1.5.11 Interpretations</br>
 ### 1.5.12  Recommendations and Conclusions </br>
 # Data understanding
-## 3.1 Column Names and Descriptions for King County Data Set
+## Column Names and Descriptions for King County Data Set
 * `id` - Unique identifier for a house
 * `date` - Date house was sold
 * `price` - Sale price (prediction target)
