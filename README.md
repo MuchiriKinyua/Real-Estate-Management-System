@@ -23,5 +23,18 @@ The main objective is to select the features which influence the price of a hous
 ### 1.5.10 Data Visualizations </br>
 ### 1.5.11 Interpretations</br>
 ### 1.5.12  Recommendations and Conclusions </br>
-# Recommendations
-# Conclusions
+# Recommendations and Conclusions
+Most features have been noted to have statistical significance on the price of the houses. In particular, these three features are very important and will play a very crucial role in the future in determining the price of the houses: </br>
+Bedrooms <br>
+Grade </br>
+Living area </br>
+Also, the stakeholders should keep a close eye on the: </br> bedroom </br> living area </br> grade </br>of a house while making kings county housing investments later on. </br>
+</br>
+a. The increase in the number of bathrooms means the increase in price of a house. </br>
+b. The better the grade of the house i.e average > good > excellent better means the the more expensive a house will be. </br>
+c.The more the bedrooms means the higher the price of a house becomes e.g a three bedroom house is more expensive than a two bedroom house. </br>
+</br>
+Finally, the assumptions being correct means the data provided above is reliable and can be used to predict future house prices. </br>
+Normality: It means there no outliers in the data </br>
+Homoscedasticity: It means the variables variability is equal across values of the features. </br>
+But of course, things may change in the future so continously updating the model from time to time can be important too. </br>
