@@ -1,5 +1,6 @@
 # King-County-House-Sales-Project
-![rent_house_73089751-5bfc333346e0fb002602ddbe](https://github.com/MuchiriKinyua/King-County-House-Sales-Project/assets/113877377/b11b0856-37a1-45b9-bc1a-f579bf260bcd)
+![Screenshot from 2024-12-15 16-49-57](https://github.com/user-attachments/assets/54b91181-8c0d-4012-a58f-a3ce0ac2f06b)
+
 # Business understanding
 # Introduction
 The following project analyzes the housing sales of King county. It will try to compare how prices are influenced by different features e.g., bathrooms, bedrooms and such. This features will be tested side by side with the price to see their proportion against each other i.e does the increase in feature A lead to increase/decrease in the price. Does it even have an effect to start with. This will enable us to give the stakeholder the visuals and the recommendations to enable him or her to make the necessary conclusions. 
